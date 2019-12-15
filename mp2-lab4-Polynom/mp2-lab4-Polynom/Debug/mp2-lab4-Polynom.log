@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Polynom.cpp
+c:\users\olejk\desktop\mp2-lab4-polynom\mp2-lab4-polynom\mp2-lab4-polynom\polynom.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\olejk\desktop\mp2-lab4-polynom\mp2-lab4-polynom\mp2-lab4-polynom\polynom.cpp(23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\olejk\desktop\mp2-lab4-polynom\mp2-lab4-polynom\mp2-lab4-polynom\polynom.cpp(501): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  mp2-lab4-Polynom.vcxproj -> C:\Users\olejk\Desktop\mp2-lab4-Polynom\mp2-lab4-Polynom\Debug\mp2-lab4-Polynom.exe
